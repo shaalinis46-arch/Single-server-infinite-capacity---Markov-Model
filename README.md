@@ -54,6 +54,15 @@ else:
 print("---------------------------------------------------------------")
 ```
 ## Output :
-
+Enter the mean inter arrival time of objects from Feeder (in secs): 5
+Enter the mean  inter service time of Lathe Machine (in secs) :  6
+Enter the Additional time taken for the Robot (in secs) :  7
+--------------------------------------------------------------
+Single Server with Infinite Capacity - (M/M/1):(oo/FIFO)
+--------------------------------------------------------------
+The mean arrival rate per second : 0.20
+The mean service rate per second : 0.08
+Warning! Objects Over flow will happen in the conveyor
+---------------------------------------------------------------
 ## Result :
 The Avgerage number of material in the system and in the conveyorand waiting time are successfully found. 
